@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Are you the best?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "Ofc you're the best I didn't have to ask ! ❤️"           // Secret hover message
         },
         second: {
             text: "Do you find this cool?",                          // For the love meter
